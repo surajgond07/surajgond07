@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 - ⚡ I'm a front-end, backend & Mobile Apps developer, Very passionate about Programming.
-- 🔭 I’m currently working on Android Develpement.  
+- 🔭 I’m currently working on Cross Platform Apps Develpement.  
 - 👯 I’m looking to collaborate on GitHub.
 - 📫 Connect with  me on my socials linked below 💬.
 - 🌱I’m currently learning Flutter.
