@@ -1,16 +1,12 @@
 ###                                 <h1 align="center" dir="auto"><a id="user-content-hi--im-suraj-gond" class="anchor" aria-hidden="true" href="#hi--im-suraj"></a>Hi there 👋, I'm Suraj Gond!!</h1> 
 
 
-💫 About Me:
-⚡ I'm a passionate Front-end, Back-end, and Mobile App Developer with a love for programming.
-
-🔭 Currently working on both Frontend and Backend Web Development.
-
-👯 Open to collaboration on exciting GitHub projects.
-
-📫 Feel free to connect with me through my social links below.
-
-🌱 Actively learning React and TypeScript to level up my skills.
+# 💫 About Me:
+- ⚡ I'm a passionate Front-end, Back-end, and Mobile App Developer with a love for programming.
+- 🔭 Currently working on both Frontend and Backend Web Development.
+- 👯 Open to collaboration on exciting GitHub projects.
+- 📫 Feel free to connect with me through my social links below 💬.
+- 🌱 Actively learning React and TypeScript to level up my skills.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/surajgond07/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/surajgond07/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/surajgond) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/SurajGond07) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/surajgond) 
